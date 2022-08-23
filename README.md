@@ -1,5 +1,7 @@
+Hi there 🧉, my name is Nicolas
 
-Soy Nicolás Blasutig, desarrollador web full stack, especializado en Front-End con React.
+I am a Full Stack Web Developer. My main skills are React, Node, JavaScript, CSS, Git, MongoDB and HTML, with which i have developed several Websites available in my portfolio.
 
-Pueden ver el codigo de mis proyectos aqui. Si quieren ver el proyecto hosteado, pueden encontrar la url de cada uno en su README.
+I am passionate about learning :)
 
+https://nicoblasutig.vercel.app/
