@@ -7,3 +7,6 @@ My passion for coding and problem-solving drives me to create dynamic, interacti
 I work as a Frontend Developer for leading client in the global technological field and also as FullStack Freelance coding Apps, Ecommerce, SPA, Landing Pages and Softwares.
 
 Feel free to contact me :) 
+
+Email: nicolasblasutigdev@gmail.com
+LinkedIn: https://www.linkedin.com/in/nicolasblasutig/
